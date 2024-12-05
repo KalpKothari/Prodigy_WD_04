@@ -23,6 +23,7 @@ This is a fully responsive travel agency landing page with front-end functionali
 
 ### 💼 Contact me 
 - linkedin. [Linkedin](https://www.linkedin.com/in/kalp-kothari-a748b52b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: kalpkothari14@gmail.com
+
+  
 
 
